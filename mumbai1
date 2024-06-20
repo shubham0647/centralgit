@@ -34,3 +34,4 @@ public class PrimeNumberChecker {
             if (isPrime(number)) {
                 System.out.println(number + " is a prime number."
 Shubham Sharma
+My code has been pushed on github.
